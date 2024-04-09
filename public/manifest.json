@@ -1,0 +1,15 @@
+{
+  "name": "Terra Incognita",
+  "short_name": "Terra",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "A hybrid travel and todo app for the DWT module",
+  "icons": [
+    {
+      "src": "images/Trollface_Test.png",
+      "sizes": "347x288",
+      "type": "image/png"
+    }
+  ]
+}
